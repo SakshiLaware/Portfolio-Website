@@ -51,5 +51,3 @@ The website is designed with a modern blue theme, glassmorphism UI, smooth anima
 - Responsive Web Design
 
 ---
-
-## 📂 Project Structure
