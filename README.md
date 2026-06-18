@@ -6,12 +6,6 @@ This portfolio showcases my skills, projects, education, experience, and achieve
 
 ---
 
-## 🌐 Live Preview
-
-(Add your deployed website link here)
-
----
-
 ## 📌 About The Project
 
 This portfolio website represents my journey as a **Computer Science Engineering student**, Java developer, and Data Science enthusiast.
